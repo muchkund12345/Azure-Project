@@ -1,4 +1,7 @@
 # Azure Data Engineer Project
 * Vaccination data 
-| Field name|Type|Description|
-|:---|:---:|---:|
+| Field name | Type | Description |
+| -------- | -------- | -------- |
+| COUNTRY | String |Country, territory, area |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
