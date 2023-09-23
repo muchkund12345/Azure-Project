@@ -1,4 +1,4 @@
 # Azure Data Engineer Project
-** Vaccination data **
-| 
-Field name|Type|Description|
+* Vaccination data 
+| Field name|Type|Description|
+|:---|:---:|---:|
